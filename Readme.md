@@ -9,7 +9,7 @@ I have build calculator with the help of `HTML`, `CSS` and `JavaScript`.
 
 This is the live link of the project.
 
-Checkout Here [Live Link](https://dp-js-stopwatch.netlify.app)
+Checkout Here [Live Link](https://dp-calculator.netlify.app)
 
 ![assets](./calc.jpg)
 
